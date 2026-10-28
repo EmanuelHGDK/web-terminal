@@ -1,2 +1,4 @@
-flask
+Flask
+flask-sock
 gunicorn
+gevent
