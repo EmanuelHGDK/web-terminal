@@ -30,7 +30,7 @@ def home():
         <p>Appens interne port: {port}</p>
         <p>Offentlig adresse:
            <a style="color:#00ff66"
-              href="https://web-terminal-dit-navn.onrender.com">
+              href="https://web-terminal-madb.onrender.com">
               Åbn hjemmesiden
            </a>
         </p>
