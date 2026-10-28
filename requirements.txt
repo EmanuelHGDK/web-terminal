@@ -1,4 +1,5 @@
+
 Flask
 flask-sock
 gunicorn
-gevent
+simple-websocket
